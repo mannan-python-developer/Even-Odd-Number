@@ -13,4 +13,4 @@ This Python script is a simple program to determine whether a given number is od
 1. **Clone the Repository:**
    Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/mannan258/Even-Odd-Number.git
+   git clone https://github.com/mannan-python-developer/Even-Odd-Number.git
